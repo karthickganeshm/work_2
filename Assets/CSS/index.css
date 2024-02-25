@@ -1,0 +1,126 @@
+#brand_title{
+    font-size: 30px;
+    font-weight: bold;
+}
+#logo{
+    width: 80px;
+    border: 1px solid white;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.nav-link{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+#para{
+    width: 500px;
+    text-align: justify;
+    font-size: 20px;
+}
+#main_image{
+    width: 550px;
+    margin-top: 30px;
+    border: 2px solid black;
+}
+.main_para{
+    font-size: 20px;
+    font-weight: bold;
+}
+.info{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.info .card{
+    width: 1100px;
+    height: 600px;
+    background-image: linear-gradient(to right, darkblue, black);
+}
+.info .card .row{
+    text-align: left;
+    justify-content: space-evenly;
+}
+.info .card .row .card{
+    text-align: center;
+    background-image: none;
+    background-color: white;
+    width: 300px;
+    height: 400px;
+}
+.info .card .row :hover{
+    transform: scale(1.1);
+}
+.info .card .row .card .card-header .btn{
+    background-color: darkgreen;
+    
+}
+.info .card .row .card .card-body .p{
+    text-align: justify;
+}
+.info .card .row .card .card-body :hover{
+    transform: none;
+}
+.info .card .row .card .card-header :hover{
+    transform: none;
+}
+.about{
+    width: 1000px;
+}
+.boxes1 .card{
+    width: 150px;
+    background-color: darkblue;
+    color: white;
+    font-weight: bold;
+    height: 120px;
+}
+.boxes1 .card .line{
+    border: 1px solid white;
+}
+.boxes1 .card #size{
+    font-size: 30px;
+}
+
+.boxes2 .card{
+    width: 150px;
+    background-color: darkred;
+    color: white;
+    font-weight: bold;
+    height: 120px;
+}
+.boxes2 .card .line{
+    border: 1px solid white;
+}
+.app #mobile{
+    width: 300px;
+}
+footer #footer_logo{
+    width: 100px;
+    border: 1px solid white;
+    
+}
+footer .item{
+    flex-direction: column;
+}
+.item li a{
+    color: white;
+    text-decoration: none;
+}
+.vertical-line{
+    height: 100px;
+    border: 1px solid white;
+    width: 1px;
+}
+footer p{
+    margin-right: 10px;
+}
+.content .card{
+    width: 400px;
+    justify-content: center;
+}
+.card form .form-group .option{
+    color: white;
+    text-decoration: none;
+}
+
+
